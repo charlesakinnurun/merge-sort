@@ -13,6 +13,9 @@ It is known for being:
 -   ❌ Uses extra memory (not in-place)
 
 
+
+
+
 ## ⚙️ How Merge Sort Works
 ### Step 1 — Divide
 
@@ -46,6 +49,16 @@ Continue merging until the full sorted list is produced.
 Final result:
 
 [3, 9, 10, 27, 38, 43, 82]
+
+
+
+### ⏱️ Time & Space Complexity
+| ⏱️ Case       | Time Complexity |
+|---------------|----------------|
+| Best Case     | O(n log n)     |
+| Average Case  | O(n log n)     |
+| Worst Case    | O(n log n)     |
+
 
 ## 📁 Python Implementation
 ```python
