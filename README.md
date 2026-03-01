@@ -1,6 +1,6 @@
-<h1>Merge Sort</h1>
+<h1 align="center">Merge Sort</h1>
 
-## 🔎 Overview
+## Overview
 
 <b>Merge Sort</b> is a popular divide and conquer algorithm.
 
@@ -13,7 +13,7 @@ It is known for being:
 -   ❌ Uses extra memory (not in-place)
 
 
-
+<a href="/src/main.py">Check for source code</a>
 
 
 ## ⚙️ How Merge Sort Works
@@ -59,7 +59,7 @@ Final result:
 | Average Case  | O(n log n)     |
 | Worst Case    | O(n log n)     |
 
-
+<!--
 ## 📁 Python Implementation
 ```python
 # %% [markdown]
@@ -169,7 +169,7 @@ if __name__ == "__main__":
 
 
 ```
-
+-->
 
 ### 👍 Advantages
 
